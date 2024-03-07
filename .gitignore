@@ -1,0 +1,4 @@
+backend/*/migrations/0*
+*.pyc
+backend/.venv
+
